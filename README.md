@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behind24proxies&show_icons=true&theme=tokyonight)
-<figure><embed src="https://wakatime.com/share/@bddbae02-bfcc-4257-be3e-04273b7042e0/828982fc-a757-47b3-abc5-485a3a0c3fdf.svg"></embed></figure>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behind24proxies&show_icons=true&theme=codeSTACKr )
+
+![Anurag's GitHub stadts](https://github-readme-stats.vercel.app/api/wakatime?username=behind24proxies&theme=codeSTACKr&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=PixelHub)](https://github.com/behind24proxies/PixelHub)
