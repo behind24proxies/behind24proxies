@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=behind24proxies&show_icons=true&theme=tokyonight)
+<figure><embed src="https://wakatime.com/share/@bddbae02-bfcc-4257-be3e-04273b7042e0/828982fc-a757-47b3-abc5-485a3a0c3fdf.svg"></embed></figure>
