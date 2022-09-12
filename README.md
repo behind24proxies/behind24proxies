@@ -40,7 +40,7 @@
 ## _coding stats since August 2022  :_
 ![Anurag's GitHub stadts](https://github-readme-stats.vercel.app/api/wakatime?username=behind24proxies&theme=codeSTACKr&show_icons=true)
 ## _🔥some HOT repos🔥:_
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=PixelHub)](https://github.com/behind24proxies/PixelHub)                                   ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=website_stats)](https://github.com/behind24proxies/website_stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=PixelHub)](https://github.com/behind24proxies/PixelHub)                       ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behind24proxies&theme=codeSTACKr&repo=website_stats)](https://github.com/behind24proxies/website_stats)
 
 
 
