@@ -44,5 +44,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/96356684/189737903-a5b82f28-f16c-438d-8b91-5feb6a078675.png)
+## _me irl  :_
+![ezgif-1-a0666d40e2](https://user-images.githubusercontent.com/96356684/189739928-f1bbf7fb-3d45-416c-b9fb-ade8b788c9f5.gif)
+
 
